@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Product handling</title>
+<title> Product handling</title>
 
 
 <link rel = "stylesheet" href = "Views/bootstrap.min.css">
