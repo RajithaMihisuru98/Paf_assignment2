@@ -20,11 +20,15 @@
 </head>
 <body>
 
+<body background  ='graphics/root.jpg'> 
+
 <div class = "container"> 
 	<div class="row">
-		<div class="col">
+		<div class="col-8">
+		
+		
 
-		<h1> Products Management</h1>
+		<h1 style="color:DarkBlue;"> Products Management</h1>
 		
 	<form id="formProduct" name="formProduct"  >
 		Name:
